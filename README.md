@@ -1,4 +1,4 @@
-# chrome-extension-content_script
+# content_script
 
 Just following a tutorial on chrome extensions
 
